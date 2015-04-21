@@ -5,7 +5,7 @@ To install
 ----------
 
 ```
-$ git clone https://github.com/severin-lemaignan/vimrc.git $HOME/.vim
+$ git clone https://github.com/alexis-jacq/vimrc.git $HOME/.vim
 $ echo "source ~/.vim/vimrc" > $HOME/.vimrc
 ```
 
